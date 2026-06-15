@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Couture",
+  "description": "Gestion d'atelier de couture sur mesure avec mannequin 3D anthropométrique, fiches clients interactives et conseiller de mode IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
